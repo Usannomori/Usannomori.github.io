@@ -6,4 +6,25 @@
   <li>today's task</li>
   <li>tomorrow's task</li>
 </ul>
+<oi>
+  <li>list1</li>
+  <li>list2</li>
+  <li>list3</li>
+</oi>
 <strong>I can do it!!</strong>
+
+<table border=1>
+<tr>
+  <th>name</th>
+  <th>age</th>
+</tr>
+<tr>
+  <td>Rune</td>
+  <td>23</td>
+</tr>
+<tr>
+  <td>Rio</td>
+  <td>23</td>
+</tr>
+</table>
+<image src=1042088_s.jpg>
