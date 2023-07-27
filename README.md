@@ -8,11 +8,11 @@
   <li>today's task</li>
   <li>tomorrow's task</li>
 </ul>
-<oi>
+<ol>
   <li>list1</li>
   <li>list2</li>
   <li>list3</li>
-</oi>
+</ol>
 <strong>I can do it!!</strong>
 
 <table border=1>
