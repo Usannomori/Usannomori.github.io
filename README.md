@@ -27,4 +27,4 @@
   <td>23</td>
 </tr>
 </table>
-<image src=1042088_s.jpg>
+<image src="https://thumb.photo-ac.com/cc/cc46614da92cf990a3609ffa2d1f3e0e_w.jpeg">
